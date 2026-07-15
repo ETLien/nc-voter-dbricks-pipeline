@@ -6,7 +6,7 @@ when new data is available, and processes it for downstream use.
 
 ## Background
 
-This is a refactor of [an earlier version of this project](https://github.com/ETLien/nc-voter-pipeline),
+This is a rewrite of [an earlier version of this project](https://github.com/ETLien/nc-voter-pipeline),
 originally written while I was still learning Python. The original still works,
 but it became increasingly harder to follow as I extended it incrementally over time rather than
 restructuring it. This version rebuilds the same core logic as a
