@@ -24,5 +24,5 @@ accurate in the [original README](https://github.com/ETLien/nc-voter-pipeline/bl
 
 ## Status
 
-Currently working: file-change detection, download, unzip.
-Next: validation checks, identifying new data, syncing to DB, cleanup.
+Currently working: file-change detection, download, unzip, source file tests.
+Next: identifying new data, syncing to DB, cleanup.
